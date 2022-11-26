@@ -18,7 +18,6 @@
 # misc
 .DS_Store
 *.pem
-/public/img
 # debug
 npm-debug.log*
 yarn-debug.log*
